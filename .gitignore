@@ -1,0 +1,11 @@
+config.yaml
+enlaces_magnet.txt
+*.yaml
+__pycache__/utils.cpython-311.pyc
+nombres_torrent.txt
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/Torrent2Magnet_.iml
+.idea/vcs.xml
+.idea/workspace.xml
