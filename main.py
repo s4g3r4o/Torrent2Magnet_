@@ -6,7 +6,7 @@ from colorama import init, Fore
 init(autoreset=True)
 
 
-def cargar_configuracion():
+def load_config():
     config_file = "config.yaml"
 
     if os.path.exists(config_file):
@@ -24,7 +24,7 @@ def cargar_configuracion():
     return None
 
 def main():
-    ruta_carpeta = cargar_configuracion()
+    ruta_carpeta = load_config()
 
     if ruta_carpeta:
         enlaces_magnet = convertir_torrents_en_carpeta(ruta_carpeta)
