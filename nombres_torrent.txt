@@ -259,6 +259,9 @@ Como se convirtieron en líderes de sectas [HDTV][1080p][Cap 106].torrent
 Crimen en Barcelona [HDTV][1080p][Cap 101].torrent
 Crimen en Barcelona [HDTV][1080p][Cap 102].torrent
 Crimen en Barcelona [HDTV][1080p][Cap 103].torrent
+Crimen en Barcelona [HDTV][480p][Cap 101].torrent
+Crimen en Barcelona [HDTV][480p][Cap 102].torrent
+Crimen en Barcelona [HDTV][480p][Cap 103].torrent
 Crimen en Barcelona [HDTV][720p][Cap 101].torrent
 Crimen en Barcelona [HDTV][720p][Cap 102].torrent
 Crimen en Barcelona [HDTV][720p][Cap 103].torrent
@@ -266,9 +269,11 @@ Crimen en el paraiso [HDTV][480p][Cap 1201].torrent
 Crimen en el paraiso [HDTV][480p][Cap 1202].torrent
 Crimen en el Paraiso [HDTV][480p][Cap 1203].torrent
 Crimen En El Paraiso [HDTV][480p][Cap 1204].torrent
+Crimen En El Paraiso [HDTV][480p][Cap 1205].torrent
 Crimen en el paraiso [HDTV][720p][Cap 1201].torrent
 Crimen en el paraiso [HDTV][720p][Cap 1202].torrent
 Crimen En El Paraiso [HDTV][720p][Cap 1204].torrent
+Crimen En El Paraiso [HDTV][720p][Cap 1205].torrent
 Cuando termines de salvar el mundo (2022) [2160p][Esp].torrent
 Cuando termines de salvar el mundo (2022) [Bluray][1080p][Esp].torrent
 Cuando termines de salvar el mundo (2022) [Bluray][480p][Esp].torrent
@@ -347,18 +352,22 @@ Django [2160p][Cap 101].torrent
 Django [2160p][Cap 102].torrent
 Django [2160p][Cap 103].torrent
 Django [2160p][Cap 105].torrent
+Django [2160p][Cap 106].torrent
 Django [HDTV][1080p][Cap 101].torrent
 Django [HDTV][1080p][Cap 104].torrent
 Django [HDTV][1080p][Cap 105].torrent
+Django [HDTV][1080p][Cap 106].torrent
 Django [HDTV][480p][Cap 101].torrent
 Django [HDTV][480p][Cap 102].torrent
 Django [HDTV][480p][Cap 103].torrent
 Django [HDTV][480p][Cap 104].torrent
 Django [HDTV][480p][Cap 105].torrent
+Django [HDTV][480p][Cap 106].torrent
 Django [HDTV][720p][Cap 101].torrent
 Django [HDTV][720p][Cap 102].torrent
 Django [HDTV][720p][Cap 104].torrent
 Django [HDTV][720p][Cap 105].torrent
+Django [HDTV][720p][Cap 106].torrent
 Don Cochecito y los caballeros templarios  [720p]p.torrent
 Don Cochecito y los caballeros templarios (2023) [Bluray][480p][Esp].torrent
 Dragon Ball Super Super Hero (2022) [Bluray][1080p][Esp].torrent
@@ -432,6 +441,8 @@ El pequeno Nicolas (2022) [Bluray][1080p][Esp].torrent
 El pequeno Nicolas (2022) [Bluray][480p][Esp].torrent
 El pequeno Nicolas (2022) [Bluray][720p][Esp].torrent
 El pico del diablo  (2023) [Bluray][1080p][Esp].torrent
+El pico del diablo  (2023) [Bluray][480p][Esp].torrent
+El pico del diablo  (2023) [Bluray][720p][Esp].torrent
 El principe que nunca reino [HDTV][1080p][Cap 101].torrent
 El principe que nunca reino [HDTV][1080p][Cap 103].torrent
 El refugio [Bluray][1080p][Esp].torrent
@@ -1255,6 +1266,7 @@ Professionals 1x04 [IP [WEB-DL]Micro [720p]p AC3 Español].torrent
 Professionals 1x05 [IP [WEB-DL]Micro [720p]p AC3 Español].torrent
 Professionals 1x06 [IP [WEB-DL]Micro [720p]p AC3 Español].torrent
 Professionals [HDTV][1080p][Cap 101].torrent
+Professionals [HDTV][1080p][Cap 104].torrent
 Professionals [HDTV][480p][Cap 101].torrent
 Professionals [HDTV][480p][Cap 102].torrent
 Professionals [HDTV][480p][Cap 103].torrent
@@ -1384,6 +1396,7 @@ Sister Boniface Mysteries [HDTV][480p][Cap 203].torrent
 Sister Boniface Mysteries [HDTV][480p][Cap 204].torrent
 Sister Boniface Mysteries [HDTV][480p][Cap 205].torrent
 Sister Boniface Mysteries [HDTV][480p][Cap 206].torrent
+Sister Boniface Mysteries [HDTV][480p][Cap 207].torrent
 Sister Boniface Mysteries [HDTV][720p][Cap 202].torrent
 Sister Boniface Mysteries [HDTV][720p][Cap 203].torrent
 Sister Boniface Mysteries [HDTV][720p][Cap 204].torrent
@@ -1391,6 +1404,8 @@ Sister Boniface Mysteries [HDTV][720p][Cap 205].torrent
 Sister Boniface Mysteries [HDTV][720p][Cap 206].torrent
 Sister Boniface Mysteries [HDTV][720p][Cap 207].torrent
 Sofia y la vida Real [HDTV][1080p][Cap 101].torrent
+Spider-Man Cruzando el Multiverso (2023) [2160p][Esp].torrent
+Spider-Man Cruzando el Multiverso (2023) [Bluray][1080p][Esp].torrent
 Star Trek Strange New Worlds [2160p][Cap 203].torrent
 Star Trek Strange New Worlds [2160p][Cap 204].torrent
 Star Trek Strange New Worlds [2160p][Cap 205].torrent
@@ -1422,16 +1437,19 @@ Still Here [HDTV][1080p][Cap 105].torrent
 Still Here [HDTV][1080p][Cap 106].torrent
 Still Here [HDTV][1080p][Cap 107].torrent
 Still Here [HDTV][1080p][Cap 108].torrent
+Still Here [HDTV][1080p][Cap 109].torrent
 Still Here [HDTV][480p][Cap 103].torrent
 Still Here [HDTV][480p][Cap 104].torrent
 Still Here [HDTV][480p][Cap 106].torrent
 Still Here [HDTV][480p][Cap 107].torrent
 Still Here [HDTV][480p][Cap 108].torrent
+Still Here [HDTV][480p][Cap 109].torrent
 Still Here [HDTV][720p][Cap 103].torrent
 Still Here [HDTV][720p][Cap 104].torrent
 Still Here [HDTV][720p][Cap 105].torrent
 Still Here [HDTV][720p][Cap 106].torrent
 Still Here [HDTV][720p][Cap 107].torrent
+Still Here [HDTV][720p][Cap 109].torrent
 Suenos y pan (2023) [Bluray][480p][Esp].torrent
 Suenos y pan (2023) [Bluray][720p][Esp].torrent
 Supergarcia [HDTV][1080p][Cap 101].torrent
@@ -1470,6 +1488,7 @@ Tandem [HDTV][480p][Cap 705].torrent
 Tandem [HDTV][480p][Cap 706].torrent
 Tandem [HDTV][480p][Cap 707].torrent
 Tandem [HDTV][480p][Cap 708].torrent
+Tandem [HDTV][480p][Cap 710].torrent
 Tandem [HDTV][720p][Cap 705].torrent
 Tandem [HDTV][720p][Cap 706].torrent
 Tandem [HDTV][720p][Cap 707].torrent
@@ -1677,6 +1696,10 @@ The Witcher [HDTV][720p][Cap 305].torrent
 The Witcher [HDTV][720p][Cap 306].torrent
 The Witcher [HDTV][720p][Cap 307].torrent
 The Witcher [HDTV][720p][Cap 308].torrent
+Tiempo de Victoria  La Dinastia de los Lakers [HDTV][1080p][Cap 201].torrent
+Tiempo de Victoria  La Dinastia de los Lakers [HDTV][480p][Cap 201].torrent
+Tiempo de Victoria  La Dinastia de los Lakers [HDTV][720p][Cap 201].torrent
+Tiempo de victoria La dinastia de Los Lakers [2160p][Cap 106].torrent
 Titans [2160p][Cap 403].torrent
 Titans [2160p][Cap 404].torrent
 Titans [2160p][Cap 405].torrent
@@ -1763,6 +1786,9 @@ Volpina (2021) [Bluray][720p][Esp].torrent
 Walker [HDTV][480p][Cap 301].torrent
 Walker [HDTV][480p][Cap 302].torrent
 Walker [HDTV][480p][Cap 303].torrent
+Walker [HDTV][480p][Cap 304].torrent
+Walker [HDTV][480p][Cap 305].torrent
+Walker [HDTV][480p][Cap 306].torrent
 Warrior [2160p][Cap 204].torrent
 Warrior [2160p][Cap 301].torrent
 Warrior [2160p][Cap 302].torrent
