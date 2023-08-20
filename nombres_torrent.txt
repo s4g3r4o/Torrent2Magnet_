@@ -20,6 +20,7 @@ A Traves Del Armario [HDTV][1080p][Cap 110].torrent
 A Traves Del Armario [HDTV][480p][Cap 101].torrent
 A Traves Del Armario [HDTV][480p][Cap 102].torrent
 A Traves Del Armario [HDTV][480p][Cap 103].torrent
+A Traves Del Armario [HDTV][480p][Cap 104].torrent
 A Traves Del Armario [HDTV][720p][Cap 101].torrent
 A Traves Del Armario [HDTV][720p][Cap 102].torrent
 A Traves Del Armario [HDTV][720p][Cap 103].torrent
@@ -147,8 +148,10 @@ Big George Foreman (2023) [Bluray][480p][Esp].torrent
 Big George Foreman (2023) [Bluray][720p][Esp].torrent
 Billions [2160p][Cap 701].torrent
 Billions [HDTV][1080p][Cap 701].torrent
+Billions [HDTV][1080p][Cap 702].torrent
 Billions [HDTV][480p][Cap 701].torrent
 Billions [HDTV][720p][Cap 701].torrent
+Billions [HDTV][720p][Cap 702].torrent
 Bird Box Barcelona (2023) [Bluray][1080p][Esp].torrent
 Bird Box Barcelona (2023) [Bluray][480p][Esp].torrent
 Bird Box Barcelona (2023) [Bluray][720p][Esp].torrent
@@ -248,6 +251,7 @@ Cangaco Novo [HDTV][1080p][Cap 107].torrent
 Cangaco Novo [HDTV][1080p][Cap 108].torrent
 Cangaco Novo [HDTV][480p][Cap 101].torrent
 Cangaco Novo [HDTV][480p][Cap 102].torrent
+Cangaco Novo [HDTV][480p][Cap 103].torrent
 Cangaco Novo [HDTV][720p][Cap 101].torrent
 Cangaco Novo [HDTV][720p][Cap 102].torrent
 Cangaco Novo [HDTV][720p][Cap 103].torrent
@@ -403,6 +407,7 @@ Cruel Summer [HDTV][480p][Cap 206].torrent
 Cruel Summer [HDTV][480p][Cap 207].torrent
 Cruel Summer [HDTV][480p][Cap 208].torrent
 Cruel Summer [HDTV][480p][Cap 209].torrent
+Cruel Summer [HDTV][480p][Cap 210].torrent
 Cruel Summer [HDTV][720p][Cap 201].torrent
 Cruel Summer [HDTV][720p][Cap 202].torrent
 Cruel Summer [HDTV][720p][Cap 203].torrent
@@ -873,6 +878,7 @@ Honor [HDTV][480p][Cap 103].torrent
 Honor [HDTV][720p]p}]Cap 101].torrent
 Honor [HDTV][720p][Cap 102].torrent
 Honor [HDTV][720p][Cap 103].torrent
+Honor [HDTV][720p][Cap 104].torrent
 Honor [HDTV]}[Cap 101].torrent
 Hotel El Balneario [HDTV][1080p]][Cap 601].torrent
 Hotel El Balneario [HDTV][1080p]][Cap 602].torrent
@@ -1034,6 +1040,7 @@ La Chica Enmascarada [HDTV][1080p][Cap 106].torrent
 La Chica Enmascarada [HDTV][1080p][Cap 107].torrent
 La Chica Enmascarada [HDTV][480p][Cap 101].torrent
 La Chica Enmascarada [HDTV][480p][Cap 102].torrent
+La Chica Enmascarada [HDTV][480p][Cap 103].torrent
 La Chica Enmascarada [HDTV][720p][Cap 101].torrent
 La Chica Enmascarada [HDTV][720p][Cap 102].torrent
 La Chica Enmascarada [HDTV][720p][Cap 103].torrent
@@ -1698,6 +1705,7 @@ Refugio De Harlan Coben [HDTV][1080p][Cap 101].torrent
 Refugio De Harlan Coben [HDTV][1080p][Cap 103].torrent
 Refugio De Harlan Coben [HDTV][480p][Cap 101].torrent
 Refugio De Harlan Coben [HDTV][480p][Cap 102].torrent
+Refugio De Harlan Coben [HDTV][480p][Cap 103].torrent
 Refugio De Harlan Coben [HDTV][720p][Cap 101].torrent
 Refugio De Harlan Coben [HDTV][720p][Cap 102].torrent
 Refugio De Harlan Coben [HDTV][720p][Cap 103].torrent
@@ -1826,6 +1834,7 @@ Sister Boniface Mysteries [HDTV][1080p][Cap 204].torrent
 Sister Boniface Mysteries [HDTV][1080p][Cap 205].torrent
 Sister Boniface Mysteries [HDTV][1080p][Cap 206].torrent
 Sister Boniface Mysteries [HDTV][1080p][Cap 207].torrent
+Sister Boniface Mysteries [HDTV][1080p][Cap 209].torrent
 Sister Boniface Mysteries [HDTV][480p][Cap 202].torrent
 Sister Boniface Mysteries [HDTV][480p][Cap 203].torrent
 Sister Boniface Mysteries [HDTV][480p][Cap 204].torrent
@@ -1839,6 +1848,7 @@ Sister Boniface Mysteries [HDTV][720p][Cap 204].torrent
 Sister Boniface Mysteries [HDTV][720p][Cap 205].torrent
 Sister Boniface Mysteries [HDTV][720p][Cap 206].torrent
 Sister Boniface Mysteries [HDTV][720p][Cap 207].torrent
+Sister Boniface Mysteries [HDTV][720p][Cap 209].torrent
 Sofia y la vida Real [HDTV][1080p][Cap 101].torrent
 Solar Oosites [HDTV][720p][Cap 301].torrent
 Solar Oosites [HDTV][720p][Cap 302].torrent
@@ -2162,6 +2172,15 @@ The Resort [HDTV][480p][Cap 108].torrent
 The Resort [HDTV][720p][Cap 107].torrent
 The Resort [HDTV][720p][Cap 108].torrent
 The Seven Deadly Sins El rencor de Edimburgo - Parte 2 (2023) [Bluray][720p][Esp].torrent
+The tower [HDTV][1080p][Cap 201].torrent
+The tower [HDTV][1080p][Cap 202].torrent
+The tower [HDTV][1080p][Cap 203].torrent
+The tower [HDTV][1080p][Cap 204].torrent
+The tower [HDTV][480p][Cap 201].torrent
+The tower [HDTV][720p][Cap 201].torrent
+The tower [HDTV][720p][Cap 202].torrent
+The tower [HDTV][720p][Cap 203].torrent
+The tower [HDTV][720p][Cap 204].torrent
 The Walking Dead Dead City [HDTV][1080p][Cap 103].torrent
 The Walking Dead Dead City [HDTV][1080p][Cap 105].torrent
 The Walking Dead Dead City [HDTV][1080p][Cap 106].torrent
@@ -2232,6 +2251,7 @@ Transformers El despertar de las bestias [Bluray][720p][Esp].torrent
 True Lies [HDTV][1080p][Cap 113].torrent
 True Lies [HDTV][480p][Cap 113].torrent
 True Lies [HDTV][720p][Cap 113].torrent
+Tubular Bells 50 aniversario (2022) [Bluray][1080p][Esp].torrent
 Ultima Llamada El asesino en serie de la Nueva York Queer [HDTV][1080p][Cap 103].torrent
 Ultima llamada El asesino en serie de la nueva York Queer [HDTV][1080p][Cap 104].torrent
 Umberto Eco la biblioteca del mundo [Bluray][1080p][Esp].torrent
@@ -2384,3 +2404,4 @@ Zorras [HDTV][720p][Cap 102].torrent
 Zorras [HDTV][720p][Cap 103].torrent
 Zorras [HDTV][720p][Cap 105].torrent
 Zorras [HDTV][720p][Cap 106].torrent
+Zorras [HDTV][720p][Cap 107].torrent
